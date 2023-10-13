@@ -3,9 +3,9 @@ import "./App.css";
 import Navbar from "./components/navbar";
 import Banner from "./components/banner";
 import CardSection from "./components/CardSection";
-import onesvg from "./assests/5_24x7support.svg";
-import twosvg from "./assests/6_fullycomplaint.svg";
-import threesvg from "./assests/7_everyone.svg";
+import onesvg from "./Assets/5_24x7support.svg";
+import twosvg from "./Assets/6_fullycomplaint.svg";
+import threesvg from "./Assets/7_everyone.svg";
 import { Web3Provider } from "./components/web3Context";
 
 function App() {
