@@ -1,5 +1,5 @@
 import React from "react";
-import cardimae from "../assests/4_dividends.svg";
+import cardimae from "../Assets/4_dividends.svg";
 const CardSection = () => {
   return (
     <div>
